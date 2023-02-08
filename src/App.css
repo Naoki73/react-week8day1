@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  background-image: url(makoto-megami-wallpaper.jpg);
 }
 
 .App-logo {
@@ -36,3 +37,10 @@
     transform: rotate(360deg);
   }
 }
+
+/* .nav {
+  background-color: aqua;
+
+} */
+
+
